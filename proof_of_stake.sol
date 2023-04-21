@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Refactor contract to use EIP-712 signatures
 // Improve contract interaction via APIs
+// Update README with Go module examples
