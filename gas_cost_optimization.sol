@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Optimize token minting flow
 // Fix bugs in NFT metadata handling
+// Fix contract reentrancy issues
