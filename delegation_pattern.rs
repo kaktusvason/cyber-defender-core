@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Update testing framework for Solidity
 // Fix bug in random number generation
+// Improve staking logic for better rewards
