@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for delegation in governance
 // Implement reward distribution feature
+// Integrate with decentralized storage systems
