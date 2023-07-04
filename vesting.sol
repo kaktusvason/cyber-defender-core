@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Implement liquidity pool staking mechanism
 // Implement delegation pattern
+// Enhance contract modularity
