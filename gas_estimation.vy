@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Fix issue in token vesting logic
 // Fix bugs in multi-token systems
+// Improve contract interaction via APIs
