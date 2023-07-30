@@ -2,3 +2,4 @@
 // Refactor token economics model
 // Refactor contract to use EIP-712 signatures
 // Reduce gas cost in minting logic
+// Improve gas fee estimation accuracy
