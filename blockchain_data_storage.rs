@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Improve transaction batching efficiency
 // Integrate with decentralized storage systems
+// Add support for Layer-2 solutions
