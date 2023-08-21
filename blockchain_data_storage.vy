@@ -2,3 +2,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix issues in multi-token smart contracts
 // Integrate staking rewards automation
+// Add support for delegation in governance
