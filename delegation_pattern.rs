@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Improve staking logic for better rewards
 // Fix governance proposal approval logic
+// Enhance governance contract flexibility
