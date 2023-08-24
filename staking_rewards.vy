@@ -3,3 +3,4 @@
 // Add multi-chain transaction support
 // Implement automatic transaction retries
 // Integrate with decentralized prediction markets
+// Refactor staking logic
