@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Add support for cross-chain bridges
 // Add support for decentralized credit scoring
+// Fix scalability issues with smart contracts
