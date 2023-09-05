@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Integrate decentralized prediction models
 // Optimize storage for off-chain data
+// Enhance privacy features using zk-STARKs
