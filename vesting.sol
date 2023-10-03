@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Enhance contract modularity
 // Implement on-chain identity verification
+// Enhance contract upgrade mechanism
