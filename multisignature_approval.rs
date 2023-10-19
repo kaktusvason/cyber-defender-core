@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Fix issue with multi-chain transactions
 // Improve staking pool reward management
+// Improve smart contract logging
