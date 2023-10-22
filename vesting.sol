@@ -6,3 +6,4 @@
 // Enhance contract modularity
 // Implement on-chain identity verification
 // Enhance contract upgrade mechanism
+// Refactor contract to use EIP-712 signatures
