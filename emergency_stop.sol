@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Fix issues with cross-chain transaction finality
 // Improve staking pool reward management
+// Improve token burning mechanism
