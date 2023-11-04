@@ -4,3 +4,4 @@
 // Optimize decentralized oracle performance
 // Refactor oracle interaction logic
 // Fix type mismatch in Haskell smart contract
+// Add new RPC endpoint
