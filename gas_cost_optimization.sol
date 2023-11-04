@@ -6,3 +6,4 @@
 // Fix contract reentrancy issues
 // Add support for decentralized lending platforms
 // Improve contract state management
+// Fix governance proposal approval logic
