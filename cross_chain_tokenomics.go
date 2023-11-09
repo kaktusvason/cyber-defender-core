@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix issues in multi-token smart contracts
 // Fix security vulnerability in random number generation
+// Integrate Chainlink VRF for randomness
