@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Improve gas fee estimation accuracy
 // Optimize contract upgrade process
+// Enhance cryptographic primitives in contracts
