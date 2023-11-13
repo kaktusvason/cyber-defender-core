@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Fix interoperability issues with other blockchains
 // Implement delegation pattern
+// Refactor decentralized governance structure
