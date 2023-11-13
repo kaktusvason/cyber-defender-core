@@ -5,3 +5,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve gas estimation for transactions
 // Add batch transaction capabilities
+// Fix transaction replay issue
