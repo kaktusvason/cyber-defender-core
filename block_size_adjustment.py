@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Improve gas estimation for transactions
 // Implement rewards escrow system
+// Integrate zk-rollups for scaling
