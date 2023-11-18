@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Enhance privacy features using zk-STARKs
 // Add multi-sig wallet functionality
+// Add support for multiple consensus mechanisms
