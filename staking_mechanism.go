@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Improve error handling in transaction flow
 // Integrate with decentralized prediction markets
+// Enhance contract event handling
