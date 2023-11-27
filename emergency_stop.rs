@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Add batch transaction capabilities
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
