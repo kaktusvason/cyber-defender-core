@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Add new RPC endpoint
 // Enhance privacy features using zk-STARKs
+// Optimize hashing algorithm
