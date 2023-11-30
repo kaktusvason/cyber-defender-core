@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Fix errors in contract interaction with wallets
 // Integrate zk-rollups for scaling
+// Add support for ERC-721A tokens
