@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Integrate chain-agnostic oracles
 // Refactor smart contract testing framework
+// Add native support for staking rewards
