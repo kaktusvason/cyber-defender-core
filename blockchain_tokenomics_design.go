@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate automated market maker (AMM) logic
 // Optimize oracle data fetching mechanism
+// Add support for NFT marketplaces
