@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Enhance governance contract flexibility
 // Enhance smart contract compatibility
+// Integrate IPFS for storage
