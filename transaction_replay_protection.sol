@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Optimize token burn process
 // Add support for multiple consensus mechanisms
+// Add support for decentralized insurance protocols
