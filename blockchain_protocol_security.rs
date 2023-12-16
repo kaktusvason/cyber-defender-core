@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Add automated smart contract testing
 // Improve contract modularity
+// Fix token transfer approval issues
