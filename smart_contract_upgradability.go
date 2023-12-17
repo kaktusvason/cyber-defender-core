@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Update testing framework for Solidity
 // Implement reward distribution feature
+// Fix issues with token transfer confirmations
