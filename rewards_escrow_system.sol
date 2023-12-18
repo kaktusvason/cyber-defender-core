@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Improve contract verification speed
 // Implement on-chain fee adjustment mechanisms
+// Optimize WASM compilation for Go contracts
