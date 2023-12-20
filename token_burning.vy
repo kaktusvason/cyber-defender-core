@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Optimize oracle data fetching mechanism
 // Integrate zk-rollups for scaling
+// Add batch processing for transactions
