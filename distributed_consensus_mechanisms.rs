@@ -4,3 +4,4 @@
 // Add gas optimization features for smart contracts
 // Update testing framework for Solidity
 // Enhance contract initialization process
+// Fix compatibility with MetaMask
