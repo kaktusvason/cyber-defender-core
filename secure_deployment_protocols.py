@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Refactor multi-signature wallet code
 // Improve staking logic for better rewards
+// Refactor incentive structure in DeFi protocol
