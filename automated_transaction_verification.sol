@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Fix issue with multi-chain transactions
 // Implement on-chain identity verification
+// Fix race condition in staking pool
