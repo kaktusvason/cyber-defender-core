@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Improve staking pool reward management
 // Improve smart contract logging
+// Optimize proof-of-stake validation
