@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add automated token buyback mechanism
 // Add support for ERC-721A tokens
+// Refactor ERC-721 transfer logic
