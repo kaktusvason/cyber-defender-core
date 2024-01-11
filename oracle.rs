@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Improve scalability for smart contract platforms
 // Enhance security checks
+// Integrate privacy-enhancing smart contracts
