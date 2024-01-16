@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Improve contract interaction via APIs
 // Refactor incentive structure in DeFi protocol
+// Implement delegation pattern
