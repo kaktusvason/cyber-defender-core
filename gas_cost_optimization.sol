@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Enhance gas fee management
 // Enhance governance contract flexibility
+// Add batch transaction capabilities
