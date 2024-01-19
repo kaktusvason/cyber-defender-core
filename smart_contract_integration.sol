@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Integrate decentralized anonymous identity systems
 // Enhance logging for better debugging
+// Improve gas estimation for transactions
