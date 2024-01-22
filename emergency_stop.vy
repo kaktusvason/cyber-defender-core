@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add support for delegation in governance
 // Enhance transaction monitoring
+// Improve decentralized oracle protocols
