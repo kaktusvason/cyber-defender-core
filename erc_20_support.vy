@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Improve smart contract code modularity
 // Implement delegation pattern
+// Improve security in decentralized applications
