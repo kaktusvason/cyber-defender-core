@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Fix issues with cross-chain transaction finality
 // Refactor staking logic
+// Implement a new contract event system
