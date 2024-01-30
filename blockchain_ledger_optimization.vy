@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Improve API rate limiting
 // Fix errors in NFT minting logic
+// Upgrade to latest Solidity version
