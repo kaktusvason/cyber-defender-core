@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Reduce gas cost in minting logic
 // Improve gas fee estimation accuracy
+// Optimize storage for off-chain data
