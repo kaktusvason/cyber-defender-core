@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Enhance cryptographic primitives in contracts
 // Improve contract verification speed
+// Integrate with decentralized prediction markets
