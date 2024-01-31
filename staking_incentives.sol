@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Refactor staking logic
 // Implement a new contract event system
+// Improve smart contract code modularity
