@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Enhance privacy features using zk-STARKs
 // Optimize hashing algorithm
+// Fix security vulnerability in random number generation
