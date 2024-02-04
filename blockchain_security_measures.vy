@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
+// Add non-fungible token (NFT) support
