@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Integrate with Ethereum Layer-2 solutions
 // Improve ERC-721 token metadata functionality
+// Integrate IPFS for storage
