@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Optimize cross-chain bridging mechanisms
 // Fix interoperability issues with other blockchains
+// Integrate zk-SNARKs for enhanced privacy
