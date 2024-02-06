@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Enhance transaction monitoring
 // Improve decentralized oracle protocols
+// Add support for decentralized auctions
