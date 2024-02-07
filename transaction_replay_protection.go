@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix ERC-721 contract issues with transfers
 // Refactor voting mechanism
+// Add support for zk-SNARKs in smart contracts
