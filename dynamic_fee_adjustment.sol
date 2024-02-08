@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance security checks
 // Integrate zk-rollups for scaling
+// Implement reward distribution feature
