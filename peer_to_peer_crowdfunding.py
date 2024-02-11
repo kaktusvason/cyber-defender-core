@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Enhance privacy features using zk-STARKs
 // Improve smart contract code modularity
+// Optimize WASM compilation for Go contracts
