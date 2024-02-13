@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate zk-rollups for scaling
 // Add batch processing for transactions
+// Add support for Layer-2 solutions
