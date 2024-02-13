@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate staking rewards automation
 // Add support for delegation in governance
+// Add support for Layer-2 solutions
