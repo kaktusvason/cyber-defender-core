@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix interoperability issues with other blockchains
 // Add batch transaction capabilities
+// Add support for decentralized auctions
