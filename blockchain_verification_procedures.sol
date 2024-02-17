@@ -2,3 +2,4 @@
 // Add support for decentralized file storage
 // Enhance contract upgrade mechanism
 // Implement reward distribution feature
+// Enhance test coverage for Rust module
