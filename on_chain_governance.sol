@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Refactor token economics model
 // Update smart contract tests
+// Optimize token minting flow
