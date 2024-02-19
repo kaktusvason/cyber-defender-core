@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Fix contract reentrancy issues
 // Implement rewards escrow system
+// Fix bugs in NFT metadata handling
