@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Fix transaction replay issue
 // Enhance contract initialization process
+// Integrate privacy-preserving mechanisms
