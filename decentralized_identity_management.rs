@@ -4,3 +4,4 @@
 // Fix issues with gas optimization in smart contracts
 // Refactor decentralized storage system
 // Optimize storage for off-chain data
+// Refactor contract to use EIP-712 signatures
