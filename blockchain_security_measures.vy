@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
 // Add non-fungible token (NFT) support
+// Improve error handling in transaction flow
