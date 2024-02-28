@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Refactor contract state machine design
 // Integrate Chainlink VRF for randomness
+// Add support for decentralized content distribution
