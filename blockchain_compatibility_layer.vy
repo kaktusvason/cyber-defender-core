@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
 // Refactor incentive structure in DeFi protocol
+// Optimize token burn process
