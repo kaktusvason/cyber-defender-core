@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize contract upgrade process
 // Improve security in decentralized applications
+// Integrate Chainlink VRF for randomness
