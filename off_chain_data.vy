@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Improve gas fee estimation accuracy
 // Optimize storage for off-chain data
+// Add batch processing for transactions
