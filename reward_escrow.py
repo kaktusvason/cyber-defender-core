@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Enhance smart contract state changes monitoring
 // Refactor contract state machine design
+// Fix issues in multi-token smart contracts
