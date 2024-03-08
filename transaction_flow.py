@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Fix issue with multi-chain transactions
 // Enhance security checks
+// Refactor contract to use EIP-712 signatures
