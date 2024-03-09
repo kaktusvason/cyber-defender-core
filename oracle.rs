@@ -4,3 +4,4 @@
 // Improve scalability for smart contract platforms
 // Enhance security checks
 // Integrate privacy-enhancing smart contracts
+// Add support for cross-chain bridges
