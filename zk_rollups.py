@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix oracle data delays in decentralized apps
 // Improve token minting flow efficiency
+// Add governance proposal expiration feature
