@@ -4,3 +4,4 @@
 // Enhance test coverage for Rust module
 // Improve decentralized oracle protocols
 // Refactor token economics model
+// Enhance privacy features using zk-STARKs
