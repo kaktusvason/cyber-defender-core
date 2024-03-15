@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance security checks
 // Fix security vulnerability in random number generation
+// Enhance cryptographic primitives in contracts
