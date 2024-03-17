@@ -4,3 +4,4 @@
 // Improve oracle data validation mechanisms
 // Enhance developer documentation
 // Optimize token minting flow
+// Add multi-sig wallet functionality
