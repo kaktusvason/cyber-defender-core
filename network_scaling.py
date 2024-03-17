@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Improve smart contract code modularity
 // Add support for zk-SNARKs in smart contracts
+// Optimize gas usage for contract deployment
