@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor reward pooling algorithm
 // Improve contract state management
+// Add native support for staking mechanisms
