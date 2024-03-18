@@ -6,3 +6,4 @@
 // Fix issues in multi-token smart contracts
 // Fix security vulnerability in random number generation
 // Integrate Chainlink VRF for randomness
+// Add support for ERC-1155 tokens
