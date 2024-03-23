@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Refactor contract state machine design
 // Improve error handling in transaction flow
+// Improve token burning mechanism
