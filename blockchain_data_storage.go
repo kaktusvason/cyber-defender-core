@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Add Layer-2 Ethereum scaling solutions
 // Fix overflow bug in token calculation
+// Add support for delegation in governance
