@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Add security checks for contract deployment
 // Optimize WASM compilation for Go contracts
+// Add slashing mechanism for malicious actors
