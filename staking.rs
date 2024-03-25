@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Integrate with external DeFi protocols
 // Refactor oracle interaction logic
+// Implement cross-chain bridge
