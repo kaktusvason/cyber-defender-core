@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Fix transaction replay issue
 // Add multi-sig wallet functionality
+// Add support for fractional token ownership
