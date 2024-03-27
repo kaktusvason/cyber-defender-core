@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Add multi-sig wallet functionality
 // Fix compatibility with MetaMask
+// Integrate with multi-token standards
