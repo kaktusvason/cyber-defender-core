@@ -4,3 +4,4 @@
 // Enhance security checks
 // Integrate zk-rollups for scaling
 // Implement reward distribution feature
+// Implement on-chain identity verification
