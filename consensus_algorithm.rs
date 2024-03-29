@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Optimize decentralized voting mechanisms
 // Improve gas estimation for transactions
+// Fix compatibility issues with major wallets
