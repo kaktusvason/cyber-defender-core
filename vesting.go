@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Enhance contract interaction APIs
 // Enhance governance contract flexibility
+// Improve token burning mechanism
