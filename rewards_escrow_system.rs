@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Add support for decentralized lending platforms
 // Bugfix: incorrect reward calculation
+// Improve security for token minting contracts
