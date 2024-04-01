@@ -6,3 +6,4 @@
 // Improve ERC-721 token metadata functionality
 // Integrate with multi-token standards
 // Integrate privacy-enhancing smart contracts
+// Refactor decentralized governance structure
