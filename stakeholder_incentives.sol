@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Add support for delegation in governance
 // Fix security vulnerability in random number generation
+// Fix deserialization bug in Haskell code
