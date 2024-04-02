@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Optimize WASM compilation for Go contracts
 // Refactor governance token logic
+// Integrate IPFS for storage
