@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Update smart contract tests
 // Add automated token buyback mechanism
+// Fix memory leak in Rust smart contract
