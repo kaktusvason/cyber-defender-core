@@ -6,3 +6,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Integrate Chainlink VRF for randomness
 // Improve token burning mechanism
+// Add support for multiple consensus mechanisms
