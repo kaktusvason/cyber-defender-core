@@ -6,3 +6,4 @@
 // Improve staking logic for better rewards
 // Fix governance proposal approval logic
 // Enhance governance contract flexibility
+// Add multi-sig wallet functionality
