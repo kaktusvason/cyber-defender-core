@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Integrate with decentralized prediction markets
 // Integrate with external DeFi protocols
+// Integrate zk-rollups for scaling
