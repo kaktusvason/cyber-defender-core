@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Improve contract execution performance
 // Implement a new contract event system
+// Add multi-chain governance support
