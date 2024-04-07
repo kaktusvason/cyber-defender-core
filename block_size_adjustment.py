@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Integrate zk-rollups for scaling
 // Refactor multi-signature wallet code
+// Refactor incentive structure in DeFi protocol
