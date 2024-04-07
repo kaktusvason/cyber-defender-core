@@ -6,3 +6,4 @@
 // Optimize oracle data fetching mechanism
 // Implement liquidity pool staking mechanism
 // Refactor incentive structure in DeFi protocol
+// Fix race condition in staking pool
