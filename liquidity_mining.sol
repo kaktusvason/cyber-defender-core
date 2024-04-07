@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate decentralized oracles for data feeds
+// Implement adaptive block size for Ethereum
