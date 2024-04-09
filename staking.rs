@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Refactor oracle interaction logic
 // Implement cross-chain bridge
+// Add support for decentralized insurance protocols
