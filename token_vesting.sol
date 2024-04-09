@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Integrate flash loan functionality
 // Improve contract modularity
+// Integrate automated market maker (AMM) logic
