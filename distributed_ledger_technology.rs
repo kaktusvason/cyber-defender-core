@@ -2,3 +2,4 @@
 // Add support for multi-signature wallet contracts
 // Add support for decentralized credit scoring
 // Add multi-sig wallet functionality
+// Improve gas estimation for transactions
