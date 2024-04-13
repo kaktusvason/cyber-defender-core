@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for zk-SNARKs in smart contracts
 // Fix issues with cross-chain transaction finality
+// Optimize token minting flow
