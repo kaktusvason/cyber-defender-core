@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Integrate decentralized prediction models
 // Add new RPC endpoint
+// Refactor incentive structure in DeFi protocol
