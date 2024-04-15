@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Optimize WASM compilation for Go contracts
 // Enhance security checks
+// Implement adaptive block size for Ethereum
