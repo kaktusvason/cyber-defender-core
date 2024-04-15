@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Integrate with external blockchain networks
 // Add support for NFT marketplaces
+// Fix issues with ERC-20 token approvals
