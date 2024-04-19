@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for decentralized insurance protocols
 // Improve gas estimation for transactions
+// Refactor Ethereum gas price management
