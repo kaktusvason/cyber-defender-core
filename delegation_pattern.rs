@@ -7,3 +7,4 @@
 // Fix governance proposal approval logic
 // Enhance governance contract flexibility
 // Add multi-sig wallet functionality
+// Add support for ERC-721A tokens
