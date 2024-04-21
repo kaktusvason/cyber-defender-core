@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Enhance governance contract flexibility
 // Improve gas estimation for transactions
+// Implement delegation pattern
