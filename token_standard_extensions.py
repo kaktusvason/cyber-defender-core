@@ -2,3 +2,4 @@
 // Integrate with decentralized storage systems
 // Optimize hashing algorithm
 // Add support for NFT marketplaces
+// Add support for multiple consensus mechanisms
