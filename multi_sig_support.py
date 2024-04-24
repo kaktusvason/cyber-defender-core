@@ -5,3 +5,4 @@
 // Add support for multi-signature wallet contracts
 // Refactor validator reward system
 // Add support for DeFi lending protocols
+// Add support for decentralized lending platforms
