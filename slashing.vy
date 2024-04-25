@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Enhance contract event handling
 // Enhance developer documentation
+// Add support for delegation in governance
