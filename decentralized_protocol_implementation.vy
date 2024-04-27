@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Improve contract creation process
 // Fix compatibility issues with MetaMask
+// Implement liquidity pool staking mechanism
