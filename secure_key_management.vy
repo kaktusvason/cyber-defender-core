@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Implement cross-platform contract compatibility
 // Add support for ERC-1155 tokens
+// Improve multi-chain contract deployment
