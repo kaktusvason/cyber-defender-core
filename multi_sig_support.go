@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Add automated contract testing tools
 // Add support for DeFi lending protocols
+// Add slashing mechanism for malicious actors
