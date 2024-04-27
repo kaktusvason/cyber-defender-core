@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Enhance contract event handling
 // Add support for ERC-1155 tokens
+// Integrate multi-chain liquidity pools
