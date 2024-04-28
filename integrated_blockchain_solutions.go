@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix ERC-20 token interface bugs
 // Integrate Chainlink oracles
+// Refactor cross-chain communication layer
