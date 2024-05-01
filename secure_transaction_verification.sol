@@ -7,3 +7,4 @@
 // Fix scalability issues with smart contracts
 // Enhance decentralized autonomous governance
 // Add support for zk-SNARKs in smart contracts
+// Add new RPC endpoint
