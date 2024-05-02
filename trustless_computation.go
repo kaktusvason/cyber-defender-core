@@ -3,3 +3,4 @@
 // Add support for DeFi lending protocols
 // Improve token burning mechanism
 // Improve gas estimation for transactions
+// Fix ERC-721 contract issues with transfers
