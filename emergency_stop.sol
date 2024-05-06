@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Implement delegation pattern
 // Improve token minting flow efficiency
+// Fix bug in random number generation
