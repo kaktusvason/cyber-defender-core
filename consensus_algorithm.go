@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Refactor smart contract testing framework
 // Add support for decentralized content distribution
+// Fix compatibility with MetaMask
