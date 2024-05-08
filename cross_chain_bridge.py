@@ -5,3 +5,4 @@
 // Improve contract execution speed
 // Implement on-chain fee adjustment mechanisms
 // Add governance proposal expiration feature
+// Add non-fungible token (NFT) support
