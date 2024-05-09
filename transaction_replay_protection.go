@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Add support for zk-SNARKs in smart contracts
 // Improve contract state management
+// Add multi-sig wallet functionality
