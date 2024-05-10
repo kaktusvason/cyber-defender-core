@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Add security checks for contract deployment
 // Enhance developer documentation
+// Improve gas fee estimation accuracy
