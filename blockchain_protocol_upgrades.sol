@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Refactor reward pooling algorithm
 // Integrate with external blockchain networks
+// Implement zero-knowledge proof (ZKP) support
