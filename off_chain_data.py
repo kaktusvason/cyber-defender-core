@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve contract modularity
 // Improve staking pool reward management
+// Add support for decentralized lending platforms
