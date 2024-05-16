@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Fix transaction replay issue
 // Add slashing mechanism for malicious actors
+// Implement emergency stop mechanism
