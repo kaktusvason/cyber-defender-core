@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Refactor governance token logic
 // Implement adaptive block size for Ethereum
+// Implement delegation pattern
