@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Improve token minting flow efficiency
 // Fix bug in random number generation
+// Add support for decentralized file storage
