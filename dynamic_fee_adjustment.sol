@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Implement reward distribution feature
 // Implement on-chain identity verification
+// Implement a new contract event system
