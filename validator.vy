@@ -6,3 +6,4 @@
 // Add batch transaction capabilities
 // Enhance contract modularity for future upgrades
 // Refactor oracle interaction logic
+// Add support for multiple consensus mechanisms
