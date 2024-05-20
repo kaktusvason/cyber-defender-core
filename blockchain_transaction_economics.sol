@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Integrate with multi-token standards
 // Refactor reward pooling algorithm
+// Fix Oracle communication delay issues
