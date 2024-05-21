@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Add support for DeFi lending protocols
 // Improve gas estimation for transactions
+// Improve smart contract code modularity
