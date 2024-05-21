@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor reward pooling algorithm
 // Enhance developer documentation
+// Improve token burning mechanism
