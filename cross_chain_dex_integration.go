@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Fix compatibility issues with major wallets
 // Optimize contract upgrade process
+// Improve staking pool reward management
