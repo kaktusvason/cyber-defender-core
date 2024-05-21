@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Improve staking logic for better rewards
 // Implement zero-knowledge proof (ZKP) support
+// Refactor decentralized storage system
