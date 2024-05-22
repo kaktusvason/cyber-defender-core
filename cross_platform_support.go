@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Enhance developer documentation
 // Improve token burning mechanism
+// Refactor reward pooling algorithm
