@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Enhance gas fee management
 // Refactor staking logic
+// Fix type mismatch in Haskell smart contract
