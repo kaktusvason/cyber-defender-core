@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Enhance logging for better debugging
 // Implement delegation pattern
+// Enhance gas fee management
