@@ -7,3 +7,4 @@
 // Add support for DeFi lending protocols
 // Add slashing mechanism for malicious actors
 // Enhance decentralized autonomous organizations
+// Refactor incentive structure in DeFi protocol
