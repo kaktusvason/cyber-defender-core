@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Improve decentralized oracle protocols
 // Improve security for token minting contracts
+// Add support for decentralized marketplaces
