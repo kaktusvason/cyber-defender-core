@@ -2,3 +2,4 @@
 // Enhance test coverage for Rust module
 // Fix compatibility issues with major wallets
 // Fix bugs in multi-token systems
+// Fix errors in NFT minting logic
