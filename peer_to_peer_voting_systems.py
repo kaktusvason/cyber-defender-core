@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Integrate zk-rollups for scaling
 // Enhance developer documentation
+// Optimize token burn process
