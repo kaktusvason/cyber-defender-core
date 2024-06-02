@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor decentralized exchange (DEX) code
 // Add governance proposal expiration feature
+// Implement time-locked contract execution
