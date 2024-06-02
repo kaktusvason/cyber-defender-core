@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Add automated token buyback mechanism
 // Fix memory leak in Rust smart contract
+// Implement zero-knowledge proof (ZKP) support
