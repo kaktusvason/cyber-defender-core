@@ -4,3 +4,4 @@
 // Add support for batch transaction processing
 // Fix issue in token vesting logic
 // Enhance gas fee management
+// Refactor reward pooling algorithm
