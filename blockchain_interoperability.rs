@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Integrate with external DeFi protocols
 // Integrate zk-rollups for scaling
+// Refactor token economics model
