@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Implement delegation pattern
 // Fix bugs in multi-token systems
+// Integrate privacy-preserving mechanisms
