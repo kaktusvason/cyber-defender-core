@@ -8,3 +8,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for ERC-1155 tokens
 // Optimize gas usage in contract execution
+// Implement contract function batching
