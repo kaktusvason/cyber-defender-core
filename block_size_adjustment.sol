@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Fix governance proposal approval logic
 // Implement emergency stop mechanism
+// Integrate IPFS for storage
