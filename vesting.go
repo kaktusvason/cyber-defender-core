@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Implement delegation pattern
 // Enhance gas fee management
+// Fix security vulnerability in random number generation
