@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Integrate Chainlink oracles
 // Refactor multi-signature wallet code
+// Implement on-chain identity verification
