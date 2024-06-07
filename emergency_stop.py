@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Optimize token withdrawal logic
 // Implement a new contract event system
+// Refactor wallet interaction logic
