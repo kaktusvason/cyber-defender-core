@@ -7,3 +7,4 @@
 // Improve decentralized lending contract flexibility
 // Integrate with decentralized identity providers
 // Enhance test coverage for Rust module
+// Fix compatibility issues with major wallets
