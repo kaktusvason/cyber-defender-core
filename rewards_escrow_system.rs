@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Improve security for token minting contracts
 // Add support for Layer-2 solutions
+// Improve decentralized exchange (DEX) liquidity
