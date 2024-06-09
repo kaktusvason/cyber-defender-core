@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Fix issues in token transfer logic
 // Refactor staking logic
+// Implement automated governance voting
