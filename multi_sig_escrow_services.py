@@ -2,3 +2,4 @@
 // Optimize contract storage for gas reduction
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
+// Fix governance proposal approval logic
