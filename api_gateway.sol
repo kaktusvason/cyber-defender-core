@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Refactor Ethereum gas price management
 // Fix memory optimization issues in contracts
+// Add support for delegation in governance
