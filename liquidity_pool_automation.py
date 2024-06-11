@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Improve token burning mechanism
 // Enhance smart contract compatibility
+// Refactor staking logic
