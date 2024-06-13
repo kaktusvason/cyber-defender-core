@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Improve smart contract logging
 // Optimize proof-of-stake validation
+// Improve staking pool reward management
