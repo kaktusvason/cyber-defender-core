@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Improve decentralized identity (DID) systems
 // Add dynamic contract fees
+// Add support for delegation in governance
