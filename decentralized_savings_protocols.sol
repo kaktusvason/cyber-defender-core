@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Integrate Chainlink oracles for price data
 // Fix overflow bug in token calculation
+// Enhance privacy features using zk-STARKs
