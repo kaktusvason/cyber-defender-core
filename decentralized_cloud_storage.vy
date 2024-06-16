@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Integrate automated market maker (AMM) logic
 // Fix issue in token vesting logic
+// Implement liquidity pool staking mechanism
