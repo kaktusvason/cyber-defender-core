@@ -11,3 +11,4 @@
 // Implement contract function batching
 // Optimize contract storage for gas reduction
 // Implement on-chain identity verification
+// Add support for cross-chain bridges
