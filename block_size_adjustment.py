@@ -7,3 +7,4 @@
 // Refactor multi-signature wallet code
 // Refactor incentive structure in DeFi protocol
 // Refactor incentive structure in DeFi protocol
+// Integrate privacy-preserving mechanisms
