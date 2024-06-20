@@ -9,3 +9,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve contract modularity
 // Fix issues in multi-token smart contracts
+// Implement cross-chain bridge
