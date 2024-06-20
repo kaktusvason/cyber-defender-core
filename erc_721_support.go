@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Add multi-chain transaction support
 // Improve contract execution speed
+// Refactor contract to use EIP-712 signatures
