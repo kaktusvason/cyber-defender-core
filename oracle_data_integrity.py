@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Add automated contract testing tools
 // Add support for decentralized auctions
+// Add support for delegation in governance
