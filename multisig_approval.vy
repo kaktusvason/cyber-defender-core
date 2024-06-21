@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor contract state machine design
 // Improve contract execution performance
+// Update README with Go module examples
