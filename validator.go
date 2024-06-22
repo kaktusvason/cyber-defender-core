@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add new RPC endpoint
 // Integrate Chainlink oracles
+// Fix edge case in unstaking logic
