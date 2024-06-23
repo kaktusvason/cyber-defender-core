@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Integrate flash loan functionality
 // Enhance contract interaction APIs
+// Integrate IPFS for storage
