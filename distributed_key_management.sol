@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Add unit tests for staking module
 // Fix transaction replay issue
+// Integrate Chainlink VRF for randomness
