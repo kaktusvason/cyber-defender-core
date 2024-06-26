@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Implement delegation pattern
 // Add non-fungible token (NFT) support
+// Implement liquidity pool staking mechanism
