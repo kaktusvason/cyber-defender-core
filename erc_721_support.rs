@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Fix Oracle communication delay issues
 // Integrate privacy-enhancing smart contracts
+// Fix errors in NFT minting logic
