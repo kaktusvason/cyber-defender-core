@@ -10,3 +10,4 @@
 // Fix governance proposal approval logic
 // Improve security in decentralized applications
 // Add multi-sig wallet functionality
+// Add support for fractional token ownership
