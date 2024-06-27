@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Optimize cross-chain bridging mechanisms
 // Update testing framework for Solidity
+// Fix errors in contract interaction with wallets
