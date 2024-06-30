@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Improve error handling in transaction flow
 // Refactor validator reward system
+// Implement automatic transaction retries
