@@ -5,3 +5,4 @@
 // Improve contract state management
 // Integrate chain-agnostic oracles
 // Optimize gas usage for contract deployment
+// Add new RPC endpoint
