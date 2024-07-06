@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Refactor reward pooling algorithm
 // Add governance proposal expiration feature
+// Integrate with external DeFi protocols
