@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Add multi-sig wallet functionality
 // Improve API rate limiting
+// Refactor decentralized storage system
