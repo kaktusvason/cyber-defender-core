@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate automated market maker (AMM) logic
 // Add support for decentralized lending platforms
+// Enhance privacy features using zk-STARKs
