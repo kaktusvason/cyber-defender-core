@@ -3,3 +3,4 @@
 // Improve contract state management
 // Improve contract verification speed
 // Refactor oracle interaction logic
+// Integrate multi-chain liquidity pools
