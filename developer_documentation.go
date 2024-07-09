@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Improve staking and yield farming logic
 // Fix overflow bug in token calculation
+// Refactor contract to use EIP-712 signatures
