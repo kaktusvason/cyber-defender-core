@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Refactor staking logic
 // Fix issue with multi-chain transactions
+// Enhance privacy features using zk-STARKs
