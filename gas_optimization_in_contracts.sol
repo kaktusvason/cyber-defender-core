@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Fix interoperability issues with other blockchains
 // Refactor reward pooling algorithm
+// Refactor Ethereum gas price management
