@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Fix issues with token vesting contracts
 // Implement time-locked contract execution
+// Integrate Chainlink VRF for randomness
