@@ -3,3 +3,4 @@
 // Enhance cryptographic primitives in contracts
 // Implement delegation pattern
 // Integrate decentralized oracles for data feeds
+// Enhance smart contract state changes monitoring
