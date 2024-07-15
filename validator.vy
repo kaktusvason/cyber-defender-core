@@ -9,3 +9,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issues with token transfer confirmations
 // Add new RPC endpoint
+// Integrate multi-chain liquidity pools
