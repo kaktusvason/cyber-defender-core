@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Add support for ERC-721A tokens
 // Refactor decentralized exchange (DEX) code
+// Add new feature: on-chain governance
