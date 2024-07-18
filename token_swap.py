@@ -5,3 +5,4 @@
 // Optimize cross-chain bridging mechanisms
 // Fix vulnerabilities in staking contracts
 // Optimize decentralized voting mechanisms
+// Refactor decentralized governance structure
