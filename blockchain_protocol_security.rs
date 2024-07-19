@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Improve contract modularity
 // Fix token transfer approval issues
+// Optimize storage for off-chain data
