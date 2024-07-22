@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Implement automated governance voting
 // Add automated smart contract testing
+// Refactor reward pooling algorithm
