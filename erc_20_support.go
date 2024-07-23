@@ -2,3 +2,4 @@
 // Improve decentralized oracle protocols
 // Optimize storage for off-chain data
 // Optimize contract upgrade process
+// Add support for zk-SNARKs in smart contracts
