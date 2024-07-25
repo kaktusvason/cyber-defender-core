@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Enhance smart contract upgradeability
 // Fix overflow bug in token calculation
+// Refactor smart contract testing framework
