@@ -2,3 +2,4 @@
 // Fix bug in random number generation
 // Fix memory optimization issues in contracts
 // Fix issues with contract finalization
+// Refactor validator reward system
