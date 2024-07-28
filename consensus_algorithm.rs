@@ -8,3 +8,4 @@
 // Optimize decentralized voting mechanisms
 // Improve gas estimation for transactions
 // Fix compatibility issues with major wallets
+// Implement price feed oracles for tokens
