@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
 // Improve contract creation process
+// Optimize gas usage for contract deployment
