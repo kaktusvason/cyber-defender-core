@@ -2,3 +2,4 @@
 // Enhance test coverage for Rust module
 // Fix transaction replay issue
 // Add native support for staking mechanisms
+// Fix issues with token vesting contracts
