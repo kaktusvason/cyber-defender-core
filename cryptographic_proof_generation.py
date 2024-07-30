@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Refactor staking logic
 // Integrate Chainlink oracles
+// Refactor reward pooling algorithm
