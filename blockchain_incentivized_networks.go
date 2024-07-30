@@ -7,3 +7,4 @@
 // Integrate chain-agnostic oracles
 // Improve contract execution performance
 // Implement delegation pattern
+// Fix compatibility with MetaMask
