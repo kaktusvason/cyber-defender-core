@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Improve token burning mechanism
 // Refactor reward pooling algorithm
+// Implement adaptive block size for Ethereum
