@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles
+// Add support for multiple consensus mechanisms
