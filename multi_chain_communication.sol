@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Add slashing mechanism for malicious actors
 // Fix transaction replay issue
+// Integrate with Ethereum Layer-2 solutions
