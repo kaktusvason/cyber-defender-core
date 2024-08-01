@@ -9,3 +9,4 @@
 // Refactor multi-signature wallet code
 // Add support for yield farming rewards
 // Add support for decentralized lending platforms
+// Add native support for staking rewards
