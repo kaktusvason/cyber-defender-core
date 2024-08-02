@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Optimize gas usage in smart contracts
 // Enhance contract modularity for future upgrades
+// Add support for zk-SNARKs in smart contracts
