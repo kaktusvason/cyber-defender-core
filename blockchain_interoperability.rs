@@ -6,3 +6,4 @@
 // Integrate with external DeFi protocols
 // Integrate zk-rollups for scaling
 // Refactor token economics model
+// Integrate automated market maker (AMM) logic
