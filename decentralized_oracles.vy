@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Add multi-chain transaction support
 // Add automated smart contract testing
+// Refactor staking logic
