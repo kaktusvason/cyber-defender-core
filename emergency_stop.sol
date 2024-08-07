@@ -8,3 +8,4 @@
 // Fix bug in random number generation
 // Add support for decentralized file storage
 // Fix scalability issues with smart contracts
+// Add multi-sig wallet functionality
