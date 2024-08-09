@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Improve gas estimation for transactions
 // Implement delegation pattern
+// Refactor storage layout for better efficiency
