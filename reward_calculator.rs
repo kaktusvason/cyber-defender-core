@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Integrate Chainlink VRF for randomness
 // Fix interoperability issues with other blockchains
+// Refactor voting mechanism
