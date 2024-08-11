@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Refactor governance token logic
 // Optimize gas usage for contract deployment
+// Improve token minting flow efficiency
