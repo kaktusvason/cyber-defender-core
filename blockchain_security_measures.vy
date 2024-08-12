@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Improve error handling in transaction flow
 // Improve token minting flow efficiency
+// Enhance contract upgrade process
