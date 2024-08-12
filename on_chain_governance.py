@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor ERC-721 transfer logic
 // Enhance contract event handling
+// Implement dynamic fee adjustment
