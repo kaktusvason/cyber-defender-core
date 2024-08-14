@@ -10,3 +10,4 @@
 // Add support for yield farming rewards
 // Add support for decentralized lending platforms
 // Add native support for staking rewards
+// Fix compatibility with MetaMask
