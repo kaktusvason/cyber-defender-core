@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Enhance gas fee management
 // Refactor reward pooling algorithm
+// Enhance API rate limiting for smart contracts
