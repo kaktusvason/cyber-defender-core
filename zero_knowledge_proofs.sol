@@ -6,3 +6,4 @@
 // Fix memory leak in Rust smart contract
 // Implement zero-knowledge proof (ZKP) support
 // Fix memory optimization issues in contracts
+// Fix overflow bug in token calculation
