@@ -9,3 +9,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve error handling in transaction flow
 // Optimize cross-chain communication
+// Integrate IPFS for storage
