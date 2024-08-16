@@ -4,3 +4,4 @@
 // Add automated token buyback mechanism
 // Add support for multiple consensus mechanisms
 // Enhance contract initialization process
+// Bugfix: incorrect reward calculation
