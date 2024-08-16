@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Add slashing mechanism for malicious actors
 // Integrate flash loan functionality
+// Refactor smart contract testing framework
