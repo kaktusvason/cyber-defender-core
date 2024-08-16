@@ -3,3 +3,4 @@
 // Integrate multi-chain liquidity pools
 // Fix compatibility issues with major wallets
 // Enhance smart contract state changes monitoring
+// Add support for NFT marketplaces
