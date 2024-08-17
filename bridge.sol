@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Add batch processing for transactions
 // Fix governance proposal approval logic
+// Integrate Chainlink VRF for randomness
