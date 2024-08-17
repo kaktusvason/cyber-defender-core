@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Optimize cross-chain bridging mechanisms
 // Enhance contract modularity
+// Refactor staking logic
