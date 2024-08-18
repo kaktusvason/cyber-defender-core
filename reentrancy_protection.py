@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Improve oracle data validation mechanisms
 // Refactor wallet interaction logic
+// Fix ERC-721 contract issues with transfers
