@@ -7,3 +7,4 @@
 // Optimize Oracle-based data fetching
 // Refactor storage layout for better efficiency
 // Fix issues with contract finalization
+// Add unit tests for staking module
