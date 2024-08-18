@@ -6,3 +6,4 @@
 // Enhance developer documentation
 // Add support for delegation in governance
 // Refactor reward pooling algorithm
+// Integrate zk-rollups for scaling
