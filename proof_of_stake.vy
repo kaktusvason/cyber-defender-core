@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Fix issues with contract finalization
 // Add unit tests for staking module
+// Reduce gas cost in minting logic
