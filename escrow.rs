@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Add support for batch transaction processing
 // Add support for delegation in governance
+// Improve multi-chain transaction processing
