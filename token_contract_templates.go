@@ -7,3 +7,4 @@
 // Refactor cross-chain communication layer
 // Implement time-locked contract execution
 // Fix interoperability issues with other blockchains
+// Add slashing mechanism for malicious actors
