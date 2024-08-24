@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
 // Fix governance proposal approval logic
+// Fix issues with token vesting contracts
