@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor contract to use EIP-712 signatures
 // Integrate zk-rollups for scaling
+// Add support for decentralized lending platforms
