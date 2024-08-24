@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Refactor incentive structure in DeFi protocol
 // Fix ERC-20 token interface bugs
+// Integrate privacy-enhancing smart contracts
