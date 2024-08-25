@@ -8,3 +8,4 @@
 // Integrate privacy-enhancing smart contracts
 // Refactor decentralized governance structure
 // Improve decentralized oracle protocols
+// Fix governance proposal approval logic
