@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Refactor validator reward system
 // Implement automatic transaction retries
+// Integrate zk-SNARKs for enhanced privacy
