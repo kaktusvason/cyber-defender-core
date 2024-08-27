@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Fix race condition in staking pool
 // Code cleanup and documentation update
+// Fix type mismatch in Haskell smart contract
