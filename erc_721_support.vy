@@ -12,3 +12,4 @@
 // Optimize contract storage for gas reduction
 // Implement on-chain identity verification
 // Add support for cross-chain bridges
+// Add support for delegation in governance
