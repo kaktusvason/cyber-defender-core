@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Optimize gas cost in function execution
 // Implement delegation pattern
+// Add support for NFT marketplaces
