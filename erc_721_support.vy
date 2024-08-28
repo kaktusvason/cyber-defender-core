@@ -13,3 +13,4 @@
 // Implement on-chain identity verification
 // Add support for cross-chain bridges
 // Add support for delegation in governance
+// Implement a new contract event system
