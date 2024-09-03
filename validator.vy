@@ -10,3 +10,4 @@
 // Fix issues with token transfer confirmations
 // Add new RPC endpoint
 // Integrate multi-chain liquidity pools
+// Update smart contract tests
