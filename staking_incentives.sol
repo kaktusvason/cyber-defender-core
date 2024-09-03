@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement a new contract event system
 // Improve smart contract code modularity
+// Update README with Go module examples
