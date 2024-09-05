@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Implement a new contract event system
 // Improve transaction batching efficiency
+// Integrate chain-agnostic oracles
