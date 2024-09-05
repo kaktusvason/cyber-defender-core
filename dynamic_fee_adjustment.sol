@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Implement on-chain identity verification
 // Implement a new contract event system
+// Improve gas fee estimation accuracy
