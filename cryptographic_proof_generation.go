@@ -4,3 +4,4 @@
 // Fix issues in token transfer logic
 // Refactor staking logic
 // Implement automated governance voting
+// Integrate with decentralized storage systems
