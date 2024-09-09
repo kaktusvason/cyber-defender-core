@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Upgrade to latest Solidity version
 // Integrate Chainlink VRF for randomness
+// Add support for zk-SNARKs in smart contracts
