@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
+// Add new feature: on-chain governance
