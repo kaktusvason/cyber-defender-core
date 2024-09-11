@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Implement automatic transaction retries
 // Improve contract execution performance
+// Integrate Chainlink oracles
