@@ -7,3 +7,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance smart contract audit tools
 // Refactor voting mechanism
+// Add support for ERC-1155 tokens
