@@ -6,3 +6,4 @@
 // Implement performance optimizations for DeFi
 // Integrate IPFS for storage
 // Refactor decentralized governance structure
+// Refactor cross-chain communication layer
