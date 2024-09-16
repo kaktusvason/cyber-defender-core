@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Refactor decentralized governance structure
 // Improve contract auditing tools
+// Add dynamic contract fees
