@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Refactor contract event emission
 // Add support for batch transaction processing
+// Fix governance proposal approval logic
