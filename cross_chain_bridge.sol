@@ -7,3 +7,4 @@
 // Optimize cross-chain bridging mechanisms
 // Add dynamic contract upgrade mechanisms
 // Enhance privacy features using zk-STARKs
+// Add support for ERC-721A tokens
