@@ -7,3 +7,4 @@
 // Add native support for staking mechanisms
 // Enhance decentralized autonomous organizations
 // Update smart contract tests
+// Refactor reward pooling algorithm
