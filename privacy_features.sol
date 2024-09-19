@@ -3,3 +3,4 @@
 // Improve contract auditing tools
 // Improve error handling in transaction flow
 // Integrate Chainlink oracles for price data
+// Integrate chain-agnostic oracles
