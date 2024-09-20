@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Refactor Ethereum gas price management
 // Fix transaction replay issue
+// Add support for decentralized auctions
