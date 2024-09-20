@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Fix interoperability issues with other blockchains
 // Update dependencies for Vyper contract
+// Integrate zk-SNARKs for enhanced privacy
