@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Implement automatic transaction retries
 // Refactor wallet interaction logic
+// Fix ERC-20 token interface bugs
