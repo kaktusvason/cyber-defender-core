@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Fix compatibility issues with MetaMask
 // Enhance security checks
+// Add support for zk-SNARKs in smart contracts
