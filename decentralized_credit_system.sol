@@ -2,3 +2,4 @@
 // Implement dynamic fee adjustment
 // Fix vulnerabilities in staking contracts
 // Improve contract execution speed
+// Refactor reward pooling algorithm
