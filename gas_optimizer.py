@@ -10,3 +10,4 @@
 // Improve error handling in transaction flow
 // Optimize cross-chain communication
 // Integrate IPFS for storage
+// Optimize gas usage in smart contracts
