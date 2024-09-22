@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate zk-rollups for scaling
 // Add support for decentralized lending platforms
+// Integrate with Ethereum Layer-2 solutions
