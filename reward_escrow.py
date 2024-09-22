@@ -10,3 +10,4 @@
 // Enhance contract initialization process
 // Enhance contract interaction APIs
 // Improve staking and yield farming logic
+// Add multi-chain transaction support
