@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Enhance developer documentation
 // Optimize token burn process
+// Fix issue with multi-chain transactions
