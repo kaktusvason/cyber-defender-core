@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Add support for decentralized content distribution
 // Implement automatic transaction retries
+// Add batch transaction capabilities
