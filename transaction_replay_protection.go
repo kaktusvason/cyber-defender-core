@@ -7,3 +7,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract state management
 // Add multi-sig wallet functionality
+// Improve DApp transaction flow
