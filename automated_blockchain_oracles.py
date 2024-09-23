@@ -2,3 +2,4 @@
 // Improve oracle data validation mechanisms
 // Upgrade to latest Solidity version
 // Refactor staking logic
+// Add new feature: on-chain governance
