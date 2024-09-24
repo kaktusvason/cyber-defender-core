@@ -4,3 +4,4 @@
 // Improve contract state management
 // Improve contract creation process
 // Implement automatic transaction retries
+// Integrate with decentralized identity providers
