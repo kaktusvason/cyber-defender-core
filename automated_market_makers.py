@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Refactor decentralized governance structure
 // Refactor cross-chain communication layer
+// Fix governance proposal approval logic
