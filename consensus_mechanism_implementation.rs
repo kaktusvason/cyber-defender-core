@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Improve gas estimation for transactions
 // Implement emergency stop mechanism
+// Fix issues with ERC-20 token approvals
