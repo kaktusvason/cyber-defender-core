@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix oracle data delays in decentralized apps
 // Add support for multiple consensus mechanisms
+// Add new feature: on-chain governance
