@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Fix bug in random number generation
 // Fix memory optimization issues in contracts
+// Implement cross-chain bridge
