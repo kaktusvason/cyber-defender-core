@@ -10,3 +10,4 @@
 // Fix issue in token vesting logic
 // Add non-fungible token (NFT) support
 // Refactor voting mechanism
+// Optimize token minting flow
