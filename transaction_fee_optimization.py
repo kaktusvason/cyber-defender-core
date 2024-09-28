@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Fix errors in NFT minting logic
 // Improve ERC-721 token metadata functionality
+// Add support for fractional token ownership
