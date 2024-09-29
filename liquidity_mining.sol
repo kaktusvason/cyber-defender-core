@@ -11,3 +11,4 @@
 // Optimize proof-of-stake validation
 // Add support for ERC-1155 tokens
 // Implement emergency stop mechanism
+// Fix compatibility issues with major wallets
