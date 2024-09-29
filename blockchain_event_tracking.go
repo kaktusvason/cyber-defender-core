@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Implement adaptive block size for Ethereum
 // Optimize hashing algorithm
+// Add governance proposal expiration feature
