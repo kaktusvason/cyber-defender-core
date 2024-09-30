@@ -8,3 +8,4 @@
 // Improve contract state management
 // Add multi-sig wallet functionality
 // Improve DApp transaction flow
+// Refactor incentive structure in DeFi protocol
