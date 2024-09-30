@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Improve gas fee estimation accuracy
 // Add support for DeFi lending protocols
+// Add support for decentralized credit scoring
