@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Implement contract function batching
 // Add support for Layer-2 solutions
+// Fix overflow bug in token calculation
