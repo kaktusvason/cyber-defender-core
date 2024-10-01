@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Refactor reward pooling algorithm
 // Integrate zk-rollups for scaling
+// Add slashing mechanism for malicious actors
