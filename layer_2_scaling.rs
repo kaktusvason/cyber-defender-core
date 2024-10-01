@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Implement automatic transaction retries
 // Integrate zk-SNARKs for enhanced privacy
+// Add support for ERC-1155 tokens
