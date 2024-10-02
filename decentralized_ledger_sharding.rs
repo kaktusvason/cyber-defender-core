@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Implement on-chain identity verification
 // Add support for decentralized content distribution
+// Implement zero-knowledge proof (ZKP) support
