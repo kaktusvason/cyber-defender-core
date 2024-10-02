@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Refactor Ethereum gas price management
 // Improve contract auditing tools
+// Add support for Layer-2 solutions
