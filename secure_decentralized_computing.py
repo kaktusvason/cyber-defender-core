@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Enhance smart contract state changes monitoring
 // Improve decentralized identity (DID) systems
+// Integrate with decentralized identity providers
