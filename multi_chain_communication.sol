@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Fix transaction replay issue
 // Integrate with Ethereum Layer-2 solutions
+// Fix issues in token transfer logic
