@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
 // Fix transaction replay issue
+// Code cleanup and documentation update
