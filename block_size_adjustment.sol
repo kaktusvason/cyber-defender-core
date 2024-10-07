@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Enhance developer documentation
 // Refactor token distribution mechanism
+// Fix Oracle communication delay issues
