@@ -12,3 +12,4 @@
 // Improve gas fee estimation accuracy
 // Refactor storage layout for better efficiency
 // Refactor contract event emission
+// Fix memory leak in Rust smart contract
