@@ -8,3 +8,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance decentralized autonomous organizations
 // Refactor incentive structure in DeFi protocol
+// Improve contract interaction via APIs
