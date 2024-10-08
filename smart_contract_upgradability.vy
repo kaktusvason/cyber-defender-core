@@ -2,3 +2,4 @@
 // Add support for decentralized auctions
 // Refactor validator reward system
 // Add support for batch transaction processing
+// Add new feature: on-chain governance
