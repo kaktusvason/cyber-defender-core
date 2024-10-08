@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Update dependencies for Vyper contract
 // Refactor smart contract testing framework
+// Add Layer-2 Ethereum scaling solutions
