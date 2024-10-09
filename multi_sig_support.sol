@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Enhance smart contract extensibility
 // Add support for delegation in governance
+// Enhance smart contract upgradeability
