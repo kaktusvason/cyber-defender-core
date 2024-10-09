@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Refactor staking logic
 // Implement automated governance voting
+// Integrate zk-rollups for scaling
