@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Optimize token burn process
 // Implement liquidity pool staking mechanism
+// Add batch processing for transactions
