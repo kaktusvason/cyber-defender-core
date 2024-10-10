@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Integrate chain-agnostic oracles
 // Add support for zk-SNARKs in smart contracts
+// Integrate Chainlink VRF for randomness
