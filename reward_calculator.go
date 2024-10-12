@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Optimize contract storage for gas reduction
 // Add security checks for contract deployment
+// Add support for delegation in governance
