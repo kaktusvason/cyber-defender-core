@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Fix scalability issues with smart contracts
 // Implement decentralized arbitration in contracts
+// Add fallback mechanism in Solidity contract
