@@ -7,3 +7,4 @@
 // Refactor governance token logic
 // Integrate IPFS for storage
 // Fix memory optimization issues in contracts
+// Add support for multiple consensus mechanisms
