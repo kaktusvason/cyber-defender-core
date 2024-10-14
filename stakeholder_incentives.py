@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Integrate with external blockchain networks
 // Add Layer-2 Ethereum scaling solutions
+// Refactor wallet interaction logic
