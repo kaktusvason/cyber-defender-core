@@ -6,3 +6,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance contract modularity
 // Refactor staking logic
+// Add support for ERC-1155 tokens
