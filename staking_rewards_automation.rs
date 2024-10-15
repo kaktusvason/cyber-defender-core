@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Integrate with multi-token standards
 // Implement performance optimizations for DeFi
+// Enhance test coverage for Rust module
