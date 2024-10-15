@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for ERC-721A tokens
 // Implement price feed oracles for tokens
+// Implement contract function batching
