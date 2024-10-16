@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add automated contract testing tools
 // Add support for delegation in governance
+// Optimize gas usage in smart contracts
