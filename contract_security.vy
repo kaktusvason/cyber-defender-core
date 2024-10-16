@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Update smart contract tests
 // Optimize hashing algorithm
+// Add support for yield farming rewards
