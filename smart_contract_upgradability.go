@@ -9,3 +9,4 @@
 // Add support for ERC-721A tokens
 // Add support for DeFi lending protocols
 // Improve API rate limiting
+// Refactor storage layout for better efficiency
