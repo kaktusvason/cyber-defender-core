@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Implement delegation pattern
 // Fix contract reentrancy issues
+// Implement on-chain identity verification
