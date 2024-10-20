@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Integrate privacy-enhancing smart contracts
 // Refactor decentralized governance structure
+// Refactor reward pooling algorithm
