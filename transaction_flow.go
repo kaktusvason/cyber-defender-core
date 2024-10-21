@@ -11,3 +11,4 @@
 // Add non-fungible token (NFT) support
 // Refactor voting mechanism
 // Optimize token minting flow
+// Add security checks for contract deployment
