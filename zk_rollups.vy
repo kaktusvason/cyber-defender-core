@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Implement time-locked contract execution
 // Optimize proof-of-stake validation
+// Integrate with external DeFi protocols
