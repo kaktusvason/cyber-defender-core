@@ -9,3 +9,4 @@
 // Implement a new contract event system
 // Improve transaction batching efficiency
 // Integrate chain-agnostic oracles
+// Refactor incentive structure in DeFi protocol
