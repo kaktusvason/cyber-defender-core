@@ -8,3 +8,4 @@
 // Enhance contract initialization process
 // Enhance decentralized autonomous governance
 // Add support for yield farming rewards
+// Add support for ERC-1155 tokens
