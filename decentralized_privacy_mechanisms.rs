@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Fix governance proposal approval logic
 // Fix ERC-20 token interface bugs
+// Update testing framework for Solidity
