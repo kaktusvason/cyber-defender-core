@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve oracle data validation mechanisms
 // Bugfix: incorrect reward calculation
+// Fix transaction replay issue
