@@ -3,3 +3,4 @@
 // Enhance contract upgrade mechanism
 // Improve staking logic for better rewards
 // Integrate chain-agnostic oracles
+// Add new feature: on-chain governance
