@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Refactor contract to use EIP-712 signatures
 // Optimize token minting flow
+// Enhance logging for better debugging
