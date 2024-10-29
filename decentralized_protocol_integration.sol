@@ -5,3 +5,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate with decentralized prediction markets
 // Implement cross-platform contract compatibility
+// Fix compatibility issues with MetaMask
