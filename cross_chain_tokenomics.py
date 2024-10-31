@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Enhance smart contract upgradeability
 // Fix compatibility issues with MetaMask
+// Fix issues in token transfer logic
