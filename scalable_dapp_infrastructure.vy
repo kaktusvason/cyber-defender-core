@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Enhance contract event handling
 // Improve gas estimation for transactions
+// Fix overflow bug in token calculation
