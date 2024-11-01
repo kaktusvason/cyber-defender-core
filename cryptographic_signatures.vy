@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Improve contract state management
 // Fix token transfer approval issues
+// Integrate zk-rollups for scaling
