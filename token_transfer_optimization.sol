@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Integrate privacy-preserving mechanisms
 // Implement liquidity pool staking mechanism
+// Add slashing mechanism for malicious actors
