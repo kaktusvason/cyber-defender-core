@@ -9,3 +9,4 @@
 // Enhance security checks
 // Code cleanup and documentation update
 // Refactor multi-signature wallet code
+// Enhance logging for better debugging
