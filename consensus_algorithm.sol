@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Add Layer-2 Ethereum scaling solutions
 // Add new RPC endpoint
+// Integrate privacy-enhancing smart contracts
