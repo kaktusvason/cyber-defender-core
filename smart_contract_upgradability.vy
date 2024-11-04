@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Add support for batch transaction processing
 // Add new feature: on-chain governance
+// Enhance governance contract flexibility
