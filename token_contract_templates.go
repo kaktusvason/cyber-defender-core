@@ -9,3 +9,4 @@
 // Fix interoperability issues with other blockchains
 // Add slashing mechanism for malicious actors
 // Optimize storage for off-chain data
+// Fix issues with cross-chain transaction finality
