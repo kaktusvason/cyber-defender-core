@@ -10,3 +10,4 @@
 // Implement cross-chain bridge
 // Optimize Oracle-based data fetching
 // Improve contract auditing tools
+// Refactor governance token logic
