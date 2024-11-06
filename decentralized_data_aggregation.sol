@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Add multi-sig wallet functionality
 // Fix issues with contract finalization
+// Integrate with decentralized identity providers
