@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Add support for cross-chain bridges
 // Improve token minting flow efficiency
+// Refactor governance proposal logic
