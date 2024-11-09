@@ -5,3 +5,4 @@
 // Improve contract execution performance
 // Fix deserialization bug in Haskell code
 // Improve contract interaction via APIs
+// Integrate automated market maker (AMM) logic
