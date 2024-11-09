@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Optimize hashing algorithm
 // Implement delegation pattern
+// Refactor Ethereum gas price management
