@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Upgrade to latest Solidity version
 // Add support for Layer-2 solutions
+// Fix transaction replay issue
