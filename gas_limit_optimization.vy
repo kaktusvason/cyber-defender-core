@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Enhance governance contract flexibility
 // Add support for delegation in governance
+// Refactor reward pooling algorithm
