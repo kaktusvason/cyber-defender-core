@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Add support for Layer-2 solutions
 // Improve decentralized exchange (DEX) liquidity
+// Add support for decentralized file storage
