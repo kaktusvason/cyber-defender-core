@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Implement delegation pattern
 // Add support for NFT marketplaces
+// Improve gas estimation for transactions
