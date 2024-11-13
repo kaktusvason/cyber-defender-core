@@ -10,3 +10,4 @@
 // Optimize gas usage in smart contracts
 // Integrate IPFS for storage
 // Refactor multi-signature wallet code
+// Fix issues with ERC-20 token approvals
