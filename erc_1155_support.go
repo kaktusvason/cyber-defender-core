@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Add support for ERC-721A tokens
 // Fix scalability issues with smart contracts
+// Update README with Go module examples
