@@ -6,3 +6,4 @@
 // Enhance contract modularity for future upgrades
 // Enhance contract upgrade process
 // Add support for decentralized auctions
+// Add support for delegation in governance
