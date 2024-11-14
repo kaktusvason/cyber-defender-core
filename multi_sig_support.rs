@@ -7,3 +7,4 @@
 // Integrate with external DeFi protocols
 // Improve contract auditing tools
 // Fix transaction replay issue
+// Integrate IPFS for storage
