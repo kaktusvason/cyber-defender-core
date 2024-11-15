@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Refactor wallet interaction logic
 // Fix security vulnerability in random number generation
+// Fix deserialization bug in Haskell code
