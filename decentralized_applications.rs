@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Optimize cross-chain communication
 // Fix governance proposal approval logic
+// Refactor staking logic
