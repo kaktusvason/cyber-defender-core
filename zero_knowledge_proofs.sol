@@ -8,3 +8,4 @@
 // Fix memory optimization issues in contracts
 // Fix overflow bug in token calculation
 // Update dependencies for Vyper contract
+// Add support for decentralized insurance protocols
