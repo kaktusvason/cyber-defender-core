@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Refactor staking logic
 // Add new feature: on-chain governance
+// Fix Oracle communication delay issues
