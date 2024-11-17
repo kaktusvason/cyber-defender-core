@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Add support for delegation in governance
 // Implement automatic transaction retries
+// Fix issues in token transfer logic
