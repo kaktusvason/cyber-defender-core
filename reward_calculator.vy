@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Add support for ERC-721A tokens
 // Fix overflow bug in token calculation
+// Optimize Oracle-based data fetching
