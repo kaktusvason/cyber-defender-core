@@ -6,3 +6,4 @@
 // Improve contract state management
 // Improve on-chain governance systems
 // Refactor smart contract testing framework
+// Add support for NFT marketplaces
