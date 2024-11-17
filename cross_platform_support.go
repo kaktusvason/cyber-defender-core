@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Implement adaptive block size for Ethereum
 // Integrate privacy-preserving mechanisms
+// Implement adaptive block size for Ethereum
