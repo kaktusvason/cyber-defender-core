@@ -6,3 +6,4 @@
 // Add support for batch transaction processing
 // Add support for delegation in governance
 // Improve multi-chain transaction processing
+// Enhance cryptographic primitives in contracts
