@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Add governance proposal expiration feature
 // Add support for ERC-1155 tokens
+// Improve token minting flow efficiency
