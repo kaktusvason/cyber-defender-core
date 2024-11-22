@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Refactor contract state machine design
 // Enhance security checks
+// Enhance privacy features using zk-STARKs
