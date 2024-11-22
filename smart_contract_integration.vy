@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Add support for zk-SNARKs in smart contracts
 // Add Layer-2 Ethereum scaling solutions
+// Integrate zk-rollups for scaling
