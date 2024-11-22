@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor reward pooling algorithm
 // Refactor Ethereum gas price management
+// Optimize proof-of-stake validation
