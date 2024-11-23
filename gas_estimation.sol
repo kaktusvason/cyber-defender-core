@@ -10,3 +10,4 @@
 // Enhance contract initialization process
 // Fix transaction replay issue
 // Code cleanup and documentation update
+// Add slashing mechanism for malicious actors
