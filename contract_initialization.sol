@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Enhance gas fee management
 // Fix errors in NFT minting logic
+// Refactor incentive structure in DeFi protocol
