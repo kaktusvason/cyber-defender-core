@@ -6,3 +6,4 @@
 // Refactor contract state machine design
 // Enhance security checks
 // Enhance privacy features using zk-STARKs
+// Optimize decentralized voting mechanisms
