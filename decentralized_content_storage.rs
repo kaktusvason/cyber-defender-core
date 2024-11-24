@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Optimize gas usage for contract deployment
 // Improve token minting flow efficiency
+// Add governance proposal expiration feature
