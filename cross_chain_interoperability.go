@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Refactor multi-signature wallet code
 // Enhance smart contract extensibility
+// Add support for NFT marketplaces
