@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Fix compatibility issues with MetaMask
 // Code cleanup and documentation update
+// Add support for NFT marketplaces
