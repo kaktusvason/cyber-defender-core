@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Implement decentralized arbitration in contracts
 // Add support for Layer-2 solutions
+// Fix governance proposal approval logic
