@@ -8,3 +8,4 @@
 // Fix issues with contract finalization
 // Improve contract interaction via APIs
 // Implement dynamic fee adjustment
+// Integrate zk-SNARKs for enhanced privacy
