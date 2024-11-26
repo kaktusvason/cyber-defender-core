@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Improve ERC-721 token metadata functionality
 // Fix issues in token transfer logic
+// Fix memory leak in Rust smart contract
