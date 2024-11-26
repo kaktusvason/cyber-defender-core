@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Optimize hashing algorithm
 // Add dynamic contract fees
+// Implement on-chain identity verification
