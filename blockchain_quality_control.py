@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Fix Oracle communication delay issues
 // Fix issue in ERC-20 token transfers
+// Integrate staking rewards automation
