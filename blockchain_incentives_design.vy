@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix bugs in decentralized exchange routing
 // Add non-fungible token (NFT) support
+// Fix oracle data delays in decentralized apps
