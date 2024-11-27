@@ -9,3 +9,4 @@
 // Improve gas estimation for transactions
 // Fix compatibility issues with major wallets
 // Implement price feed oracles for tokens
+// Fix ERC-1155 contract interactions
