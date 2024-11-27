@@ -9,3 +9,4 @@
 // Add dynamic contract upgrade mechanisms
 // Implement automatic transaction retries
 // Optimize WASM compilation for Go contracts
+// Add support for ERC-1155 tokens
