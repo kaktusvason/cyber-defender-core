@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Fix scalability issues with smart contracts
 // Optimize decentralized oracle performance
+// Fix race condition in staking pool
