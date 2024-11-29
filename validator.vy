@@ -11,3 +11,4 @@
 // Add new RPC endpoint
 // Integrate multi-chain liquidity pools
 // Update smart contract tests
+// Improve decentralized oracle protocols
