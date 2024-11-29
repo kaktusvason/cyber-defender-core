@@ -9,3 +9,4 @@
 // Optimize token minting flow
 // Enhance contract initialization process
 // Add slashing mechanism for malicious actors
+// Fix issue with multi-chain transactions
