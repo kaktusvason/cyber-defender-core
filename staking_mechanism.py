@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Fix issues with token vesting contracts
 // Bugfix: incorrect reward calculation
+// Improve gas fee estimation accuracy
