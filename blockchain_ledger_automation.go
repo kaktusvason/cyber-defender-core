@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Improve oracle data validation mechanisms
 // Refactor smart contract testing framework
+// Fix race condition in staking pool
