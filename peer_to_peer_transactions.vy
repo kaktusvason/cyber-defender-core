@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix errors in contract interaction with wallets
 // Enhance smart contract upgradeability
+// Improve token burning mechanism
