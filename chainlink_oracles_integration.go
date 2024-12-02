@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Fix vulnerability in decentralized finance protocols
 // Add decentralized contract upgradeability
+// Add new RPC endpoint
