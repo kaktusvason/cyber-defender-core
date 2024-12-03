@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Integrate with external blockchain networks
 // Enhance privacy features using zk-STARKs
+// Improve token burning mechanism
