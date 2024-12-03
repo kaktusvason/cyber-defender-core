@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Add support for delegation in governance
 // Improve token burning mechanism
+// Integrate with Ethereum Layer-2 solutions
