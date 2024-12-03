@@ -3,3 +3,4 @@
 // Optimize state channels for faster transactions
 // Fix security vulnerability in random number generation
 // Add support for ERC-721A tokens
+// Enhance privacy features using zk-STARKs
