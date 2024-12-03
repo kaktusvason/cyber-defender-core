@@ -6,3 +6,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate with Ethereum Layer-2 solutions
 // Integrate with decentralized identity providers
+// Integrate with multi-token standards
