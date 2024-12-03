@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Improve contract interaction via APIs
 // Integrate privacy-preserving mechanisms
+// Add multi-sig wallet functionality
