@@ -11,3 +11,4 @@
 // Add support for decentralized lending platforms
 // Add native support for staking rewards
 // Fix compatibility with MetaMask
+// Integrate chain-agnostic oracles
