@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Improve gas estimation for transactions
 // Improve contract execution speed
+// Fix errors in NFT minting logic
