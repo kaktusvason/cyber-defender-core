@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Implement on-chain fee adjustment mechanisms
 // Enhance gas fee management
+// Add support for delegation in governance
