@@ -6,3 +6,4 @@
 // Improve cross-chain asset management
 // Optimize decentralized voting mechanisms
 // Improve contract state management
+// Refactor validator reward system
