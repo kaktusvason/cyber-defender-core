@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement price feed oracles for tokens
 // Add support for decentralized auctions
+// Improve token burning mechanism
