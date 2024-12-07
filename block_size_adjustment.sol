@@ -8,3 +8,4 @@
 // Enhance developer documentation
 // Refactor token distribution mechanism
 // Fix Oracle communication delay issues
+// Add governance proposal expiration feature
