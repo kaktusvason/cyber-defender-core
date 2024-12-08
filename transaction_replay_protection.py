@@ -3,3 +3,4 @@
 // Integrate with external blockchain networks
 // Implement delegation pattern
 // Update README with Go module examples
+// Enhance decentralized finance (DeFi) ecosystem
