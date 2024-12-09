@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve contract execution speed
 // Refactor reward pooling algorithm
+// Enhance contract event handling
