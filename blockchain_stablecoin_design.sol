@@ -3,3 +3,4 @@
 // Fix security vulnerability in random number generation
 // Integrate Chainlink VRF for randomness
 // Integrate Chainlink VRF for randomness
+// Integrate decentralized oracles for data feeds
