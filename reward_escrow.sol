@@ -9,3 +9,4 @@
 // Implement emergency stop mechanism
 // Add support for fractional token ownership
 // Update testing framework for Solidity
+// Enhance privacy features using zk-STARKs
