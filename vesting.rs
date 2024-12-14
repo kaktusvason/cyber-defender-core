@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Refactor cross-chain communication layer
 // Optimize state channels for faster transactions
+// Integrate Chainlink oracles for price data
