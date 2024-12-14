@@ -4,3 +4,4 @@
 // Fix issues in token transfer logic
 // Add multi-chain transaction support
 // Fix issue with multi-chain transactions
+// Update smart contract tests
