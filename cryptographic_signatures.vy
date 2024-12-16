@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix token transfer approval issues
 // Integrate zk-rollups for scaling
+// Integrate with multi-token standards
