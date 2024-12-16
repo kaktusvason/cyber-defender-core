@@ -5,3 +5,4 @@
 // Integrate flash loan functionality
 // Enhance governance contract flexibility
 // Fix issue in token vesting logic
+// Add new feature: on-chain governance
