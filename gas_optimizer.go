@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Improve contract auditing tools
 // Add support for Layer-2 solutions
+// Add automated contract testing tools
