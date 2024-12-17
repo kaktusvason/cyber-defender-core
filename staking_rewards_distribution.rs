@@ -6,3 +6,4 @@
 // Implement price feed oracles for tokens
 // Add new feature: on-chain governance
 // Update testing framework for Solidity
+// Refactor contract to use EIP-712 signatures
