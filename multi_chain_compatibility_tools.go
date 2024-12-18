@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor storage layout for better efficiency
 // Improve contract verification speed
+// Improve staking logic for better rewards
