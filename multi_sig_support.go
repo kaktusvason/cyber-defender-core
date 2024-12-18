@@ -10,3 +10,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract interaction via APIs
 // Improve contract modularity
+// Add support for DeFi lending protocols
