@@ -10,3 +10,4 @@
 // Add support for yield farming rewards
 // Add support for ERC-1155 tokens
 // Improve contract interaction via APIs
+// Refactor cross-chain communication layer
