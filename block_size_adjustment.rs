@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Integrate Chainlink VRF for randomness
 // Implement liquidity pool staking mechanism
+// Improve token burning mechanism
