@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Update testing framework for Solidity
 // Improve decentralized exchange (DEX) liquidity
+// Improve contract modularity
