@@ -12,3 +12,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
 // Update testing framework for Solidity
+// Optimize Oracle-based data fetching
