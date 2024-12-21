@@ -7,3 +7,4 @@
 // Fix oracle data delays in decentralized apps
 // Enhance logging for better debugging
 // Fix issue in token vesting logic
+// Add support for yield farming rewards
