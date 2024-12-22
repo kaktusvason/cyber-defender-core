@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Refactor Ethereum gas price management
 // Optimize proof-of-stake validation
+// Fix race condition in staking pool
