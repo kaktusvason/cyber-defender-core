@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Upgrade to latest Solidity version
 // Add new RPC endpoint
+// Fix Oracle communication delay issues
