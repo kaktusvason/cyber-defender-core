@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Refactor contract state machine design
 // Improve multi-chain transaction processing
+// Add support for batch transaction processing
