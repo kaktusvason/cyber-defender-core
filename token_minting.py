@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Fix issues with token vesting contracts
 // Enhance contract upgrade mechanism
+// Integrate zk-SNARKs for enhanced privacy
