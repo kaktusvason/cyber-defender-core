@@ -6,3 +6,4 @@
 // Implement decentralized arbitration in contracts
 // Improve security for token minting contracts
 // Improve security in decentralized applications
+// Refactor cross-chain communication layer
