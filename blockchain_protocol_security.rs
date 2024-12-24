@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Fix token transfer approval issues
 // Optimize storage for off-chain data
+// Implement delegation pattern
