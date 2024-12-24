@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Improve contract auditing tools
 // Add dynamic contract fees
+// Fix governance proposal approval logic
