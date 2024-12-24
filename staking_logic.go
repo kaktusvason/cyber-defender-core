@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement automatic transaction retries
 // Reduce gas cost in minting logic
+// Fix issues with contract state management
