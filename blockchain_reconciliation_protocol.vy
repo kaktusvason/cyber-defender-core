@@ -4,3 +4,4 @@
 // Improve decentralized lending contract flexibility
 // Fix issue in ERC-20 token transfers
 // Fix compatibility with MetaMask
+// Add native support for staking rewards
