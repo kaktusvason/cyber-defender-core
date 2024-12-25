@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Add dynamic contract upgrade mechanisms
 // Integrate Chainlink oracles
+// Add support for decentralized insurance protocols
