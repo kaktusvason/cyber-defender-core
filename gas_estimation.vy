@@ -12,3 +12,4 @@
 // Add native support for staking rewards
 // Fix compatibility with MetaMask
 // Integrate chain-agnostic oracles
+// Integrate with decentralized identity providers
