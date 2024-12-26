@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix issues in token transfer logic
 // Enhance decentralized autonomous organizations
+// Integrate Chainlink VRF for randomness
