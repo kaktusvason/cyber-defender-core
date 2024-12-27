@@ -8,3 +8,4 @@
 // Optimize hashing algorithm
 // Optimize token withdrawal logic
 // Enhance smart contract upgradeability
+// Improve staking logic for better rewards
