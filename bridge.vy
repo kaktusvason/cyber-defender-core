@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous governance
 // Improve contract modularity
 // Improve oracle data validation mechanisms
+// Refactor contract to use EIP-712 signatures
