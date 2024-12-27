@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Improve decentralized exchange (DEX) liquidity
 // Improve contract interaction via APIs
+// Enhance decentralized autonomous organizations
