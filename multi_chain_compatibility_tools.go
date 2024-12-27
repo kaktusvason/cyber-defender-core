@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Improve contract verification speed
 // Improve staking logic for better rewards
+// Fix compatibility issues with major wallets
