@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Fix scalability issues with smart contracts
 // Fix vulnerabilities in staking contracts
+// Integrate zk-SNARKs for enhanced privacy
