@@ -10,3 +10,4 @@
 // Enhance API rate limiting for smart contracts
 // Add multi-chain transaction support
 // Integrate IPFS for storage
+// Add support for cross-chain bridges
