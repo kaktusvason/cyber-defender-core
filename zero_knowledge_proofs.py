@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Implement cross-chain bridge
 // Optimize contract upgrade process
+// Implement reward distribution feature
