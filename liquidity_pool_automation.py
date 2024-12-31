@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Refactor staking logic
 // Add governance proposal expiration feature
+// Improve gas fee estimation accuracy
