@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink VRF for randomness
+// Fix errors in NFT minting logic
