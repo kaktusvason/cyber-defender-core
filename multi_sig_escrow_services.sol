@@ -5,3 +5,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve staking logic for better rewards
 // Code cleanup and documentation update
+// Enhance privacy features using zk-STARKs
