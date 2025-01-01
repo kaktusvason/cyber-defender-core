@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Add support for fractional token ownership
 // Enhance transaction monitoring
+// Integrate IPFS for storage
