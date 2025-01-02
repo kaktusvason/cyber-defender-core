@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Add support for zk-SNARKs in smart contracts
 // Improve DApp transaction flow
+// Add support for decentralized auctions
