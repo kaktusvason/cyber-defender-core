@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Add new feature: on-chain governance
 // Fix Oracle communication delay issues
+// Refactor contract to use EIP-712 signatures
