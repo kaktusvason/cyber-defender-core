@@ -8,3 +8,4 @@
 // Refactor governance proposal logic
 // Refactor cross-chain communication layer
 // Implement dynamic fee adjustment
+// Enhance cryptographic primitives in contracts
