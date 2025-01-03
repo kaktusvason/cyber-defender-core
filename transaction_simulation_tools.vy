@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Refactor reward pooling algorithm
 // Enhance API rate limiting for smart contracts
+// Fix issues with token vesting contracts
