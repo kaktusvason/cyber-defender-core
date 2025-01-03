@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized marketplaces
 // Implement dynamic fee adjustment
+// Fix interoperability issues with other blockchains
