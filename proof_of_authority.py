@@ -6,3 +6,4 @@
 // Refactor token distribution mechanism
 // Improve cross-chain asset management
 // Add support for multiple consensus mechanisms
+// Add governance proposal expiration feature
