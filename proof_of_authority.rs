@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Optimize gas usage in contract execution
 // Add security checks for contract deployment
+// Optimize storage for off-chain data
