@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix bugs in decentralized exchange routing
 // Enhance test coverage for Rust module
+// Fix ERC-20 token interface bugs
