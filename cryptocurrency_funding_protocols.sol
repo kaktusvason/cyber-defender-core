@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Fix ERC-721 contract issues with transfers
 // Improve ERC-721 token metadata functionality
+// Add unit tests for staking module
