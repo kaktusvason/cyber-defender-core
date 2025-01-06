@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Enhance transaction monitoring
 // Fix interoperability issues with other blockchains
+// Add multi-sig wallet functionality
