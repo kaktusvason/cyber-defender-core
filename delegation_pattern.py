@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Add unit tests for staking module
 // Update README with Go module examples
+// Refactor smart contract testing framework
