@@ -7,3 +7,4 @@
 // Optimize decentralized voting mechanisms
 // Refactor decentralized governance structure
 // Integrate with multi-token standards
+// Add multi-sig wallet functionality
