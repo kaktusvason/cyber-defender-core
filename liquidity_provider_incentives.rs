@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Improve token burning mechanism
 // Optimize gas usage for contract deployment
+// Refactor reward pooling algorithm
