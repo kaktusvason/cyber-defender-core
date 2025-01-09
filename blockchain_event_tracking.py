@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Integrate with external blockchain networks
 // Optimize gas usage in smart contracts
+// Integrate with decentralized identity providers
