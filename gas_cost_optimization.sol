@@ -12,3 +12,4 @@
 // Add batch transaction capabilities
 // Optimize WASM compilation for Go contracts
 // Update dependencies for Vyper contract
+// Optimize token withdrawal logic
