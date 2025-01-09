@@ -11,3 +11,4 @@
 // Update testing framework for Solidity
 // Enhance privacy features using zk-STARKs
 // Enhance contract modularity
+// Fix scalability issues with smart contracts
