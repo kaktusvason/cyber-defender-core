@@ -9,3 +9,4 @@
 // Fix edge case in unstaking logic
 // Add decentralized contract upgradeability
 // Add unit tests for staking module
+// Add Layer-2 Ethereum scaling solutions
