@@ -6,3 +6,4 @@
 // Implement a new contract event system
 // Improve smart contract code modularity
 // Update README with Go module examples
+// Fix race condition in staking pool
