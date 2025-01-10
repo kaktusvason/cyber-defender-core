@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Fix errors in contract interaction with wallets
 // Improve decentralized identity (DID) systems
+// Optimize WASM compilation for Go contracts
