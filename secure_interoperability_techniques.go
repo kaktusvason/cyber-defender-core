@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Add fallback mechanism in Solidity contract
 // Refactor voting mechanism
+// Add multi-sig wallet functionality
