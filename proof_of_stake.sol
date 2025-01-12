@@ -10,3 +10,4 @@
 // Fix race condition in staking pool
 // Implement on-chain fee adjustment mechanisms
 // Fix contract reentrancy issues
+// Fix bugs in NFT metadata handling
