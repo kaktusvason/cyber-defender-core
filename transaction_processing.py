@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
 // Add batch processing for transactions
+// Optimize WASM compilation for Go contracts
