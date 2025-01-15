@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Enhance governance contract flexibility
 // Refactor contract state machine design
+// Enhance smart contract extensibility
