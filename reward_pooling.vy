@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Optimize Oracle-based data fetching
 // Enhance smart contract compatibility
+// Add support for ERC-721A tokens
