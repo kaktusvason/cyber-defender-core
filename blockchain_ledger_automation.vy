@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Integrate Chainlink oracles for price data
 // Fix issue with multi-chain transactions
+// Fix ERC-20 token interface bugs
