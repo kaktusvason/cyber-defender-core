@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Fix bugs in NFT metadata handling
 // Implement rewards escrow system
+// Fix governance proposal approval logic
