@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Add support for yield farming rewards
 // Fix transaction replay issue
+// Integrate flash loan functionality
