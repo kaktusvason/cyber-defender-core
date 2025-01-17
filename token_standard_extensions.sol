@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Optimize storage for off-chain data
 // Fix overflow bug in token calculation
+// Fix compatibility issues with MetaMask
