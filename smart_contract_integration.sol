@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Improve gas estimation for transactions
 // Add native support for staking rewards
+// Add support for decentralized marketplaces
