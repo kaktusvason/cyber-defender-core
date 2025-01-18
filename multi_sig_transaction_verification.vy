@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Optimize storage for off-chain data
 // Improve contract interaction via APIs
+// Refactor validator reward system
