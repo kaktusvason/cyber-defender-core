@@ -13,3 +13,4 @@
 // Optimize gas usage in smart contracts
 // Update testing framework for Solidity
 // Optimize Oracle-based data fetching
+// Refactor governance proposal logic
