@@ -7,3 +7,4 @@
 // Improve smart contract code modularity
 // Update README with Go module examples
 // Fix race condition in staking pool
+// Refactor governance token logic
