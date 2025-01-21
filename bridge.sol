@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor validator reward system
 // Implement contract function batching
+// Enhance contract modularity for future upgrades
