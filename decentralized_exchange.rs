@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Fix oracle data delays in decentralized apps
 // Fix errors in NFT minting logic
+// Improve ERC-721 token metadata functionality
