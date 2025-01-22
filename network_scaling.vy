@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Update testing framework for Solidity
 // Refactor staking logic
+// Integrate with external blockchain networks
