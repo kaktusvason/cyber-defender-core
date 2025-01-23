@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Improve staking logic for better rewards
 // Fix compatibility issues with major wallets
+// Improve gas estimation for transactions
