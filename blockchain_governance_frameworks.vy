@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Implement on-chain identity verification
 // Refactor staking logic
+// Add new feature: on-chain governance
