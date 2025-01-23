@@ -5,3 +5,4 @@
 // Fix bugs in NFT metadata handling
 // Improve contract execution speed
 // Enhance contract modularity
+// Implement on-chain identity verification
