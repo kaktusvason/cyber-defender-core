@@ -10,3 +10,4 @@
 // Refactor validator reward system
 // Implement contract function batching
 // Enhance contract modularity for future upgrades
+// Enhance smart contract upgradeability
