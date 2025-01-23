@@ -11,3 +11,4 @@
 // Add multi-sig wallet functionality
 // Enhance decentralized autonomous organizations
 // Integrate staking rewards automation
+// Add batch transaction capabilities
