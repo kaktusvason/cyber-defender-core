@@ -2,3 +2,4 @@
 // Improve decentralized identity (DID) systems
 // Enhance token swap functionality
 // Integrate with decentralized identity providers
+// Integrate IPFS for storage
