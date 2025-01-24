@@ -10,3 +10,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate decentralized oracles for data feeds
 // Integrate with multi-token standards
+// Optimize storage for off-chain data
