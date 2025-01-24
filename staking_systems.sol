@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Upgrade to latest Solidity version
 // Add support for ERC-1155 tokens
+// Enhance security checks
