@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Add governance proposal expiration feature
 // Optimize hashing algorithm
+// Integrate with external blockchain networks
