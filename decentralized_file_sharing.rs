@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Implement reward distribution feature
 // Enhance smart contract extensibility
+// Add support for Layer-2 solutions
