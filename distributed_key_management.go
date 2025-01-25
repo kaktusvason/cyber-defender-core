@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for NFT marketplaces
 // Implement time-locked contract execution
+// Fix vulnerabilities in staking contracts
