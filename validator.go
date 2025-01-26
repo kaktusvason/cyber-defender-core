@@ -10,3 +10,4 @@
 // Add decentralized contract upgradeability
 // Add unit tests for staking module
 // Add Layer-2 Ethereum scaling solutions
+// Add support for yield farming rewards
