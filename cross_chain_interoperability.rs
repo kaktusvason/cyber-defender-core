@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous governance
 // Refactor oracle interaction logic
 // Optimize hashing algorithm
+// Fix race condition in staking pool
