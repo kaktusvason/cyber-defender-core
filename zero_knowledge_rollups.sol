@@ -7,3 +7,4 @@
 // Improve contract interaction via APIs
 // Integrate automated market maker (AMM) logic
 // Enhance governance contract flexibility
+// Add support for zk-SNARKs in smart contracts
