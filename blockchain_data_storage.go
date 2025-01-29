@@ -11,3 +11,4 @@
 // Add multi-chain transaction support
 // Integrate IPFS for storage
 // Add support for cross-chain bridges
+// Implement delegation pattern
