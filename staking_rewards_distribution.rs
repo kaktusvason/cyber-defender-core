@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Update testing framework for Solidity
 // Refactor contract to use EIP-712 signatures
+// Enhance governance contract flexibility
