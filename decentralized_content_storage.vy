@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Add decentralized contract upgradeability
 // Improve ERC-721 token metadata functionality
+// Add support for ERC-1155 tokens
