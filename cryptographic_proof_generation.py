@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Integrate Chainlink oracles
 // Refactor reward pooling algorithm
+// Integrate Chainlink VRF for randomness
