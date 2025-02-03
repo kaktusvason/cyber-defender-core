@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance contract initialization process
 // Bugfix: incorrect reward calculation
+// Add unit tests for staking module
