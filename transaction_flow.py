@@ -9,3 +9,4 @@
 // Add new feature: on-chain governance
 // Add support for decentralized lending platforms
 // Enhance contract modularity
+// Improve contract interaction via APIs
