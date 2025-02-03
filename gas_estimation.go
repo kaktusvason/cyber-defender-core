@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Implement rewards escrow system
 // Fix governance proposal approval logic
+// Integrate zk-SNARKs for enhanced privacy
