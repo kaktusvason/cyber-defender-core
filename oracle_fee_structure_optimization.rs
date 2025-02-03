@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Optimize proof-of-stake validation
 // Improve staking pool reward management
+// Refactor governance token logic
