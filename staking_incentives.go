@@ -9,3 +9,4 @@
 // Improve token burning mechanism
 // Optimize contract upgrade process
 // Fix interoperability issues with other blockchains
+// Add native support for staking mechanisms
