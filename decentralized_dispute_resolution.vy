@@ -7,3 +7,4 @@
 // Fix scalability issues with smart contracts
 // Optimize decentralized oracle performance
 // Fix race condition in staking pool
+// Integrate IPFS for storage
