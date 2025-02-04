@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Refactor voting mechanism
 // Enhance privacy features using zk-STARKs
+// Integrate flash loan functionality
