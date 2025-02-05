@@ -8,3 +8,4 @@
 // Add support for decentralized file storage
 // Fix issues with contract finalization
 // Optimize contract upgrade process
+// Fix governance proposal approval logic
