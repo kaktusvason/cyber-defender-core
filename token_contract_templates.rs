@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Optimize decentralized application performance
 // Fix issues with cross-chain transaction finality
+// Add support for Layer-2 solutions
