@@ -13,3 +13,4 @@
 // Fix compatibility with MetaMask
 // Integrate chain-agnostic oracles
 // Integrate with decentralized identity providers
+// Enhance smart contract state changes monitoring
