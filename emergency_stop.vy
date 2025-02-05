@@ -7,3 +7,4 @@
 // Enhance transaction monitoring
 // Improve decentralized oracle protocols
 // Add support for decentralized auctions
+// Implement zero-knowledge proof (ZKP) support
