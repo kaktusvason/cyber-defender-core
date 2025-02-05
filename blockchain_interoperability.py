@@ -10,3 +10,4 @@
 // Improve contract verification speed
 // Integrate with external blockchain networks
 // Improve contract creation process
+// Implement zero-knowledge proof (ZKP) support
