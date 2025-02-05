@@ -5,3 +5,4 @@
 // Add support for decentralized auctions
 // Refactor staking logic
 // Optimize token burn process
+// Add support for Layer-2 solutions
