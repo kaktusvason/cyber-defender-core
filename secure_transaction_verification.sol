@@ -8,3 +8,4 @@
 // Enhance decentralized autonomous governance
 // Add support for zk-SNARKs in smart contracts
 // Add new RPC endpoint
+// Refactor Ethereum gas price management
