@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Refactor multi-asset token management
 // Fix issue in token vesting logic
+// Refactor storage layout for better efficiency
